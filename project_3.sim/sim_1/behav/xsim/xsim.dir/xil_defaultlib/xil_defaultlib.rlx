@@ -1,0 +1,9 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/user/logic_design_homework/project_3/project_3.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Users/user/logic_design_homework/project_3/project_3.srcs/sim_1/new/tb.v,1687015795,verilog,,,,sing_song_score_tb,,,,,,,,
+C:/Users/user/logic_design_homework/project_3/project_3.srcs/sources_1/new/PROJECT.v,1687070685,verilog,,C:/Users/user/logic_design_homework/project_3/project_3.srcs/sources_1/new/top.v,,sing_song_score,,,,,,,,
+C:/Users/user/logic_design_homework/project_3/project_3.srcs/sources_1/new/top.v,1687015795,verilog,,C:/Users/user/logic_design_homework/project_3/project_3.srcs/sources_1/new/user.v,,top,,,,,,,,
+C:/Users/user/logic_design_homework/project_3/project_3.srcs/sources_1/new/user.v,1687015795,verilog,,C:/Users/user/logic_design_homework/project_3/project_3.srcs/sim_1/new/tb.v,,user,,,,,,,,
